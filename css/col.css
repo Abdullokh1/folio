@@ -12,7 +12,9 @@
   display: flex;
   flex-flow: row wrap;
 }
-
+.column{
+  flex-direction: column;
+}
 .between {
   justify-content: space-between;
 }
